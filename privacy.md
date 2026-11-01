@@ -29,4 +29,4 @@ Delete the app to remove everything stored on your device. To remove synced data
 
 ## Contact
 
-Questions or requests: open an issue at [github.com/patelheet30/scene-stash](https://github.com/patelheet30/scene-stash-pages/issues).
+Questions or requests: open an issue at [github.com/patelheet30/scene-stash-pages/issues](https://github.com/patelheet30/scene-stash-pages/issues).
